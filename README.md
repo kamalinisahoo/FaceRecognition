@@ -1,5 +1,4 @@
 # FaceRecognition
-
 PROCEDURE TO RUN THE CODE
 There are total 2 ways to run the given application
 1.	From online deployed link
@@ -22,7 +21,7 @@ STEPS TO TAKE RUN COMMAND ON PC
 ●	pip install pandas
   6. Run the code through localserver and enter credentials on login page
 Username - admin					Password - admin
-7. 
+
 
 
 ![image](https://user-images.githubusercontent.com/105631011/170840472-62376135-f2d6-46c6-a6e9-fa2a8be61d27.png)
