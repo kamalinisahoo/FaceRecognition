@@ -12,7 +12,7 @@ STEPS TO TAKE RUN COMMAND ON PC
 2.	Download the code from GitHub
 3.	Download the code file and place it on www folder
 4.	CHANGE PATH FOR LOCAL SERVER IN EX6.PY FILE AND CONFIG.PHP
-5.	Open  PhpMyAdmin and import the database given 
+5.	Open  PhpMyAdmin and import the database from https://github.com/sarthak5185/sqlfilefacerecognition
 6.	RUN FOLLOWING COMMANDS ON TERMINAL
 ●	pip install -upgrade azure-cognitiveservices-vision-face
 ●	pip install azure-cognitiveservices-vision-computervision
